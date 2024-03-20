@@ -1,31 +1,60 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]([https://rishavchanda.io](https://portfolio-mohamed-ibrahim.onrender.com/))
-<h1 align="center">Hi 👋, my name is Mohamed Ibrahim</h1>
-<h3 align="center">A passionate Full stack web developer from Egypt.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](<[https://rishavchanda.io](https://portfolio-mohamed-ibrahim.onrender.com/)>)
 
+<h1 align="center">👋 Mohamed Ibrahim</h1>
+<h3 align="center">A passionate Full stack web developer from Egypt.</h3>
+
+---
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-mohamed-ibrahim.onrender.com/](https://portfolio-mohamed-ibrahim.onrender.com/)
+- 👨‍💻 All of my projects are available at [this site](https://portfolio-mohamed-ibrahim.onrender.com/).
 
 - 💬 Ask me about **Web development**
 
-- 📫 How to reach me **https://portfolio-mohamed-ibrahim.onrender.com/**
+- 📫 reach me \*\*[portfolio](https://portfolio-mohamed-ibrahim.onrender.com/)\*\*.
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 🛠 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/mo7mad1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mo7mad1996" height="30" width="40" /></a>
-<a href="https://dev.to/mo7mad1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mo7mad1996" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mo7mad1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mo7mad1996" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16153713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16153713" height="30" width="40" /></a>
-<a href="https://codesandbox.com/mo7mad369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mo7mad369" height="30" width="40" /></a>
-<a href="https://fb.com/mo7mad1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mo7mad1996" height="30" width="40" /></a>
-</p>
+###### Prgoramming Languages :
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+![JavaScript](https://img.shields.io/badge/JS-javascript-blue?logo=javascript)&nbsp;
+![PHP](https://img.shields.io/badge/php-PHP-f5f5f5?logo=php)&nbsp;
 
+###### Frontend
+
+![HTML](https://img.shields.io/badge/HTML-white?logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-2862e9?logo=css3)&nbsp;
+![Javascript](https://img.shields.io/badge/Javascript-2862e9?logo=javascript)&nbsp;
+
+![nextjs](https://img.shields.io/badge/Next.js-black?logo=next.js)&nbsp;
+![React](https://img.shields.io/badge/React.js-212121?logo=react)&nbsp;
+
+![Nuxt](https://img.shields.io/badge/Nuxt.js-020420?logo=nuxt.js)&nbsp;
+![Vue](https://img.shields.io/badge/Vue.js-19191a?logo=vue.js)&nbsp;
+
+ ![PHP](https://img.shields.io/badge/jQuery-154c96?logo=jquery)&nbsp;
+![PHP](https://img.shields.io/badge/Bootstrap-f7f7f7?logo=bootstrap)&nbsp;
+![PHP](https://img.shields.io/badge/axios-69a5e5?logo=axios)&nbsp;
+![PHP](https://img.shields.io/badge/canvas-A0153E?logo=canvas)&nbsp;
+![PHP](https://img.shields.io/badge/SVG-A0153E?logo=svg)&nbsp;
+![PHP](https://img.shields.io/badge/THREE.js-176B87?logo=three.js)&nbsp;
+![PHP](https://img.shields.io/badge/pugjs-d4b2aa?logo=pug)&nbsp; 
+
+
+###### backend
+
+![Laravel](https://img.shields.io/badge/Laravel-fdefee?logo=laravel)&nbsp;
+![node](https://img.shields.io/badge/Node.js-333333?logo=node.js)&nbsp;
+
+![mysql](https://img.shields.io/badge/mysql-dd8a00?logo=mysql)&nbsp;
+![mongodb](https://img.shields.io/badge/mongodb-f7f7f7?logo=mongodb)&nbsp;
+![JSON](https://img.shields.io/badge/JSON-242424?logo=json)&nbsp;
+![express](https://img.shields.io/badge/express-010101?logo=express)&nbsp;
+
+###### tools
+
+![github](https://img.shields.io/badge/github-1A1E22?logo=github)&nbsp;
+![vscode](https://img.shields.io/badge/vscode-05122A?logo=visual-studio-code)&nbsp;
+![firefox](https://img.shields.io/badge/firefox-3542cA?logo=firefox)&nbsp;
