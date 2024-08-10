@@ -5,7 +5,8 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
+https://octodex.github.com/images/carlostocat.gif
+<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/carlostocat.gif">
 
 - 🌱 I’m currently learning **Laravel**
 
