@@ -5,10 +5,8 @@
 ---
 
 [Look at me](https://portfolio-mohamed-ibrahim.onrender.com/)
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/justicetocat.jpg">
+<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/gobbleotron.gif">
 
-
-- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [this site](https://portfolio-mohamed-ibrahim.onrender.com/).
 
