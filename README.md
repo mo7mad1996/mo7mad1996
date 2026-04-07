@@ -5,7 +5,7 @@
 ---
 
 [Look at me](https://portfolio-mohamed-ibrahim.onrender.com/)
-<img align="right" alt="Coding" width="500" src="[https://images.squarespace-cdn.com/content/v1/5c87335493a6325711667e99/c6aaaca8-5567-4792-bd3a-6658e964aefd/SCULPT_HubberApprec_04_CF.gif?format=700wf]([https://myoctocat.com/assets/images/octocats/octocat-22.png](https://myoctocat.com/assets/images/octocats/octocat-22.png))">
+<img align="right" alt="Coding" width="500" src="https://myoctocat.com/assets/images/octocats/octocat-22.png">
 
 
 - 👨‍💻 All of my projects are available at [this site](https://portfolio-mohamed-ibrahim.onrender.com/).
