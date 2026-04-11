@@ -5,7 +5,7 @@
 ---
 
 [Look at me](https://portfolio-mohamed-ibrahim.onrender.com/)
-<img align="right" alt="Coding" width="500" src="https://myoctocat.com/assets/images/octocats/octocat-22.png">
+<img align="right" alt="Coding" width="500" src="./octocat-1775524302020.png">
 
 
 - 👨‍💻 All of my projects are available at [this site](https://portfolio-mohamed-ibrahim.onrender.com/).
