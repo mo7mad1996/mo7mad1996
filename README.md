@@ -44,7 +44,7 @@
 
 ###### backend
 
-![Laravel](https://img.shields.io/badge/Laravel-fdefee?logo=laravel)&nbsp;
+![Static Badge](https://img.shields.io/badge/nest)&nbsp;
 ![node](https://img.shields.io/badge/Node.js-333333?logo=node.js)&nbsp;
 
 ![mysql](https://img.shields.io/badge/mysql-dd8a00?logo=mysql)&nbsp;
